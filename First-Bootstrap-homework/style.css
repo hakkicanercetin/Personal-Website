@@ -1,0 +1,242 @@
+*
+{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.image
+{
+    width: 240px;
+    height: 254px;
+}
+.bg-green
+{
+   background-color: rgb(26,188,156);
+}
+h1
+{
+    font-size: 4rem;
+}
+.img-fluid
+{
+    border-radius: 12px;
+}
+.text-green
+{
+    color: rgb(26,188,156) !important;
+}
+a.text-green:hover
+{
+    color: #15967d;
+}
+footer p 
+{
+    font-size: 1.25rem;
+}
+.navbar
+{
+    background-color: rgb(44,62,80) !important;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+h1,p,a
+{
+    box-sizing: border-box;
+    color: white !important;
+}
+form .form-control
+{
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+}
+form .btn
+{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+    background-color: rgb(26,188,156);
+    border-color: rgb(26,188,156);
+}
+footer .btn
+{
+    border: 1px solid white; 
+    border-radius: 100%;
+}
+footer h4
+{
+    font-weight: bold;
+}
+div .navbar-brand
+{
+    font-size: 1.75rem;
+}
+header .container
+{
+    padding-top: 200px;
+    padding-bottom: 90px;
+}
+.my-second-div
+{
+    background-color: white;
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-right: 16px;
+}
+.my-third-div
+{
+    font-size: 2rem;
+}
+.my-forth-div
+{
+    background-color: white;
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-left: 16px;
+}
+header p
+{
+    font-size: 1.5rem;
+    font-family: Lato;
+}
+.my-first-section
+{
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+.my-first-section h2
+{
+    font-size: 3rem;
+    color: rgb(44,62,80) !important;
+    margin:0;
+}
+.my-fifth-div
+{
+    margin: 1.25rem 0 1.5rem 0;
+}
+.my-fifth-div div:nth-child(1)
+{
+    background-color: rgb(44,62,80);
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-right: 16px;
+}
+.my-fifth-div div:nth-child(2)
+{
+    color: rgb(44,62,80) !important;
+    font-size:2rem;
+}
+.my-fifth-div div:nth-child(3)
+{
+    background-color: rgb(44,62,80);
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-left: 16px;
+}
+.my-second-section
+{
+    padding: 6rem;
+}
+.my-second-section h2
+{
+    font-size:3rem;
+}
+.my-sixth-div
+{
+   margin: 1.25rem 0 1.5rem;
+}
+.my-sixth-div div:nth-child(1)
+{
+    background-color: white;
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-right: 16px;
+}
+.my-sixth-div div:nth-child(2)
+{
+    font-size:2rem;
+}
+.my-sixth-div div:nth-child(3)
+{
+    background-color: white;
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-left: 16px;
+}
+.my-second-section .row p
+{
+    font-size: 1.25rem;
+}
+.my-second-section button
+{
+    padding-right: 1.75rem;
+    padding-left: 1.75rem;
+}
+.my-third-section
+{
+    padding: 6rem;
+}
+.my-third-section h2
+{
+    font-size: 3rem;
+    color: rgb(44,62,80);
+}
+.my-seventh-div
+{
+    margin: 1.25rem 0 1.5rem;
+}
+.my-seventh-div div:nth-child(1)
+{
+    background-color: rgb(44,62,80);
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-right: 16px;
+}
+.my-seventh-div div:nth-child(2)
+{
+    font-size: 2rem;
+    color: rgb(44,62,80);
+}
+.my-seventh-div div:nth-child(3)
+{
+    background-color: rgb(44,62,80);
+    width: 112px;
+    height: 0.25rem;
+    margin:auto;
+    margin-left: 16px;
+}
+.my-npt
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.my-txt
+{
+    height: 10rem;
+}
+footer
+{
+    padding-top: 5rem;
+    padding-bottom: 5rem; 
+    background-color: rgb(44,62,80);
+}
+.cmpny
+{
+    color: white !important;
+}
+.my-forth-section
+{
+    background-color: rgb(26,37,47);
+}
+.my-forth-section p
+{
+    margin-bottom: 0;
+    font-size: 0.875rem;
+}
